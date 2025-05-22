@@ -74,15 +74,15 @@ Here are selected visuals that show the real progress and configuration inside m
 | No. | Filename         | Description |
 |-----|------------------|-------------|
 | 1   | ![entra-id-lab-az104](/images/1.png)  | **VMs Setup** – VirtualBox machines created for lab testing |
-| 2   | `2.png`          | **Azure VM Join** – VM successfully joined to Azure AD (Entra ID) |
-| 3   | `3.png`          | **VM Details** – System and device information from the Azure portal |
-| 4   | `4.png`          | **Directory Stats** – Overview of users, devices, and groups |
-| 5   | `5.png`          | **User Accounts** – List of created internal and external users |
-| 6   | `6.png`          | **Device Joined** – Confirmation of VM joined status in Entra ID |
-| 7   | `7.png`          | **User Profile** – Properties and group membership of a specific user |
-| 8   | `8.png`          | **Password Reset** – Self-service or admin-based reset UI example |
-| 9   | `9.png`          | **Entra Connect** – Connector details or sync setup (if applicable) |
-| 10  | `10.png`         | **Group Management** – Microsoft 365 and Security group structure |
+| 2   | ![entra-id-lab-az104](/images/2.png)    | **Azure VM Join** – VM successfully joined to Azure AD (Entra ID) |
+| 3   | ![entra-id-lab-az104](/images/3.png)   | **VM Details** – System and device information from the Azure portal |
+| 4   | ![entra-id-lab-az104](/images/4.png)          | **Directory Stats** – Overview of users, devices, and groups |
+| 5   | ![entra-id-lab-az104](/images/5.png)          | **User Accounts** – List of created internal and external users |
+| 6   | ![entra-id-lab-az104](/images/6.png)          | **Device Joined** – Confirmation of VM joined status in Entra ID |
+| 7   | ![entra-id-lab-az104](/images/7.png)       | **User Profile** – Properties and group membership of a specific user |
+| 8   | ![entra-id-lab-az104](/images/8.png)          | **Password Reset** – Self-service or admin-based reset UI example |
+| 9   | ![entra-id-lab-az104](/images/9.png)        | **Entra Connect** – Connector details or sync setup (if applicable) |
+| 10  | ![entra-id-lab-az104](/images/10.png)         | **Group Management** – Microsoft 365 and Security group structure |
 
 
 ---
