@@ -73,7 +73,7 @@ Here are selected visuals that show the real progress and configuration inside m
 
 | No. | Filename         | Description |
 |-----|------------------|-------------|
-| 1   | (./images/1.png.png) | **VMs Setup** – VirtualBox machines created for lab testing |
+| 1   | ![entra-id-lab-az104](/images/1.png)  | **VMs Setup** – VirtualBox machines created for lab testing |
 | 2   | `2.png`          | **Azure VM Join** – VM successfully joined to Azure AD (Entra ID) |
 | 3   | `3.png`          | **VM Details** – System and device information from the Azure portal |
 | 4   | `4.png`          | **Directory Stats** – Overview of users, devices, and groups |
