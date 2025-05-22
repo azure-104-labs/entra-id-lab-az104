@@ -53,7 +53,7 @@ Section 3 covers identity-centric tasks in **Microsoft Entra ID (formerly Azure 
 | Item | Details |
 |------|---------|
 | Hypervisor | VirtualBox |
-| Devices | Local VMs (Win 10/11) |
+| Devices | Local VMs (Win 10) |
 | Join Type | Azure AD Join / Hybrid Join |
 | Verified Properties | Name, OS, Trust Type, Join Date |
 | Group Membership | Added to appropriate security groups |
